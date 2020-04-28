@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/koba04/renovate-sandbox#readme",
   "devDependencies": {
-    "webpack": "^4.42.0"
+    "webpack": "4.42.0"
   }
 }
