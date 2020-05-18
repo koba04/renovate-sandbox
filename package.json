@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/koba04/renovate-sandbox#readme",
   "devDependencies": {
+    "ts-loader": "^7.0.4",
     "webpack": "4.42.0"
   }
 }
