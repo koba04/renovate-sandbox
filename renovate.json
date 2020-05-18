@@ -5,6 +5,7 @@
   "enabledManagers": ["npm"],
   "npm": {
     "schedule": "at any time",
+    "separateMinorPatch": true,
     "packageRules": [
       {
         "depTypeList": [
