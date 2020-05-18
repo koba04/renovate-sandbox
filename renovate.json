@@ -3,5 +3,5 @@
     "github>kufu/renovate-config"
   ],
   "enabledManagers": ["npm"],
-  "schedule": "at any time"
+  "sschedules": "at any time"
 }
