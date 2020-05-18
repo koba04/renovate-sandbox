@@ -4,6 +4,12 @@
   ],
   "enabledManagers": ["npm"],
   "npm": {
-    "schedule": "at any time"
+    "schedule": "at any time",
+    "packageRules": [
+      {
+        "depTypeList": ["devDependencies"],
+        "automerge": true
+      }
+    ]
   }
 }
