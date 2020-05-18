@@ -7,7 +7,13 @@
     "schedule": "at any time",
     "packageRules": [
       {
-        "depTypeList": ["devDependencies"],
+        "separateMinorPatch": true,
+        "depTypeList": [
+          "devDependencies"
+        ],
+        "updateTypes": [
+          "patch"
+        ],
         "automerge": true
       }
     ]
