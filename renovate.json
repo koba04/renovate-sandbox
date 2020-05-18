@@ -2,5 +2,6 @@
   "extends": [
     "github>kufu/renovate-config"
   ],
-  "enabledManagers": ["npm"]
+  "enabledManagers": ["npm"],
+  "schedule": "at any time"
 }
