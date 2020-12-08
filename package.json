@@ -19,7 +19,7 @@
   "homepage": "https://github.com/koba04/renovate-sandbox#readme",
   "devDependencies": {
     "ts-loader": "^7.0.5",
-    "prettier": "^2.0.5",
+    "prettier": "^2.2.1",
     "glob": "^7.1.6",
     "webpack": "4.42.1"
   }
