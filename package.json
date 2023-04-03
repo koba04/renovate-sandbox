@@ -19,7 +19,7 @@
   "homepage": "https://github.com/koba04/renovate-sandbox#readme",
   "devDependencies": {
     "@koba04/lerna-yarn-sandbox-package-a": "^1.4.0",
-    "glob": "^7.1.6",
+    "glob": "^9.3.4",
     "prettier": "^2.2.1",
     "ts-loader": "^7.0.5",
     "webpack": "5.21.2"
