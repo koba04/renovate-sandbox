@@ -2,16 +2,18 @@
   "extends": [
     "github>kufu/renovate-config"
   ],
-  "enabledManagers": ["npm"],
+  "enabledManagers": [
+    "npm"
+  ],
   "npm": {
     "schedule": "at any time",
     "separateMinorPatch": true,
     "packageRules": [
       {
-        "depTypeList": [
+        "matchDepTypes": [
           "devDependencies"
         ],
-        "updateTypes": [
+        "matchUpdateTypes": [
           "patch"
         ],
         "automerge": true
